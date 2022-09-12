@@ -1,0 +1,17 @@
+#controls{
+    padding: 10px;
+}
+
+#player-container{
+    width: 550px;
+    margin: 0px auto;
+    align-items: center;
+    position: absolute;
+}
+#slider{
+    width: 300px;
+}
+
+#volSlider{
+    width: 70px;
+}
