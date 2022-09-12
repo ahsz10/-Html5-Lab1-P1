@@ -1,3 +1,6 @@
+// Ahmed Samy Zaghloul
+// Html5-Lab 1-P1
+
 let video = document.getElementById("video1");
 let playPauseBtn = document.getElementById("playPauseBtn");
 let slider = document.getElementById("slider");
